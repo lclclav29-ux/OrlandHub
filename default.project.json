@@ -1,0 +1,21 @@
+{
+  "name": "OrlandHub",
+
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "OrlandHub": {
+        "$path": "src/shared/OrlandHub"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "OrlandHubClient": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
